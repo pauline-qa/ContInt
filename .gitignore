@@ -4,8 +4,9 @@ HELP.md
 .gradle
 build/
 target/
+.DS_Store
 
-### STS ###
+### STS #git##
 .apt_generated
 .classpath
 .factorypath
